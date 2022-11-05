@@ -27,8 +27,3 @@ resulting_rows = mydb.read('SELECT * FROM YOURTABLE')
 #### WRITE TO DB (INSERT):
 mydb.exec("INSERT INTO YOURTABLE(FIELD) VALUES('VAL');")
 
-
-
-
-
-
