@@ -58,4 +58,4 @@ class DBHelper():
 
 
         cnx.close()
-        return rslt 
+        return True 
